@@ -22,7 +22,7 @@ id | Nombre estudiante  | Equipo | Página personal
 16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion
 17 | FRANCISCO JAVIER   |   |  
 18 | JOSE FRANCISCO     |   |  
-19 | JUAN JOSE          |   |  
+19 | JUAN JOSE          | Evolution  | https://juanjocamacho.github.io 
 20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456
 21 | SALIM              |   |  
 22 | KIM                |   |  
