@@ -8,7 +8,7 @@ id | Nombre estudiante  | Equipo | Página personal
 2 | MATEUSZ            | Let Us Pass Please | https://github.com/mbereszczuk  
 3 | ALEXANDER          | LosTresDelPuzzle  | https://github.com/Lilium213  
 4 | ALFONSO            |   KernelPanic|   alfonsocabreragimenez.github.io
-5 | JUAN JOSE          |   |   
+5 | JUAN JOSE          | Evolution | https://juanjocamacho.github.io
 6 | KEVIN              |   |   
 7 | CARMEN ESTHER      | Jumanji  | https://carmenesther.github.io/  	
 8 | ALBERTO            |   |   
@@ -22,7 +22,7 @@ id | Nombre estudiante  | Equipo | Página personal
 16 | MARCOS             |  LosTresDelPuzzle |  https://github.com/marcoslupion
 17 | FRANCISCO JAVIER   |   |  
 18 | JOSE FRANCISCO     |   |  
-19 | JUAN JOSE          | Evolution  | https://juanjocamacho.github.io 
+19 | JUAN JOSE          |   | 
 20 | GABRIEL            | Najjary-Morales  |  https://github.com/gmc456
 21 | SALIM              |   |  
 22 | KIM                |   |  
